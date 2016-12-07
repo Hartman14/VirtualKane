@@ -43,22 +43,31 @@ Steps 3-9 or Steps 3, 8 and 9.
 Detailed Table of Contents:
 
 I. File List
+
 II. Software Interface
+
 A.	Start-up.cs
 	1-2: Physical Functions
 		-Code Functions
+		
 B.	Diagnostics.cs
 1-5: Physical Functions
 		-Code Functions
+		
 C.	Quick_Settings.cs
 1-3: Physical Functions
 		-Code Functions
+		
 D.	valueClass.cs
 	1-4: Code Functions
+	
 E.	Echo1(Arduino File)
 	1-5: Code Functions
+	
 III. Hardware Interface
+
 IV. Limitations from Hardware
+
 V. Highlight Reel
 *. Enlarged Hardware Image
 
