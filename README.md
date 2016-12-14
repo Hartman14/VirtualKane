@@ -1,5 +1,6 @@
 Note for anyone using this code: I did this for a school course and do not plan on continuing with it. So, if you wish to use this as a 
-starting point and continue building on what I have here feel free as this is for the public.
+starting point and continue building on what I have here, feel free as this is for the public.
+(Just remember to include the required information that is in my legal disclaimer.)
 
 README & SUMMARY
 ----------------------------------------------------------------------------------------------------------------------------
